@@ -1,2 +1,3 @@
 # hashtables
-Creating hash tables
+
+doing a tutorial on using git and creating hash tables
